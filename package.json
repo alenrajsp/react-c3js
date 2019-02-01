@@ -1,7 +1,7 @@
 {
-  "name": "react-c3js",
+  "name": "react-c3js-feri",
   "version": "0.1.20",
-  "description": "React component for C3.js",
+  "description": "Forked version of react component for C3.js",
   "main": "react-c3js.js",
   "files": [
     "*.md",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bcbcarl/react-c3js.git"
+    "url": "https://github.com/alenrajsp/react-c3js.git"
   },
   "keywords": [
     "react",
@@ -27,19 +27,19 @@
   "author": "Carl X. Su <bcbcarl@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bcbcarl/react-c3js/issues"
+    "url": "https://github.com/alenrajsp/react-c3js/issues"
   },
-  "homepage": "https://github.com/bcbcarl/react-c3js#readme",
+  "homepage": "https://github.com/alenrajsp/react-c3js#readme",
   "peerDependencies": {
     "prop-types": "^15.5.0",
     "react": "^15.5.0 || ^16.0.0",
     "react-dom": "^15.5.0 || ^16.0.0"
   },
   "dependencies": {
-    "c3": "^0.4.11"
+    "c3": "^0.6.2"
   },
   "devDependencies": {
-    "@types/c3": "^0.4.41",
+    "@types/c3": "^0.6.2",
     "@types/react": "^15.0.21",
     "@types/react-dom": "^0.14.23",
     "babel-cli": "^6.24.1",
